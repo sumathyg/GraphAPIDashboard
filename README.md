@@ -12,7 +12,7 @@ App also in the home page, it displays wishes on Hired Date and on birthday of t
 ![HiredMessage](./Images/HiredMessage.jpg)
 *	Under the Email section –Unread mails will be displayed
 ![Email](./Images/Email.jpg)
-*	Under the Files section- one drive files if available will be displayed and also with an option to upload
+*	Under the Files section- one drive files if available will be displayed and also with an option to upload file from local to OneDrive, as well the displayed files can be downloaded to local.
 ![Files](./Images/Files.jpg)
 *	Under the Calendar section- upcoming meetings for the day will be displayed. 
 ![calendar](./Images/calendar.jpg)
